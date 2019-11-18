@@ -1,4 +1,4 @@
 Assignments for each day are present into this repo.
-1.
+1. 
 2.
 3.
